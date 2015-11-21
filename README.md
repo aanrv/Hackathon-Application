@@ -4,9 +4,9 @@ An unnamed application written at the Lehman College NSBE Fall 2015 Hackathon.
 
 # Screenshots
 
-![Feed](img/mainscreen.png)
-![Article](img/article.png)
-![Comments](img/comment.png)
+![Feed](https://github.com/aanrv/Social_Media_Application/blob/master/img/mainscreen.png)
+![Article](https://github.com/aanrv/Social_Media_Application/blob/master/img/article.png)
+![Comments](https://github.com/aanrv/Social_Media_Application/blob/master/img/comment.png)
 
 Hackathon Themes Followed:
 
