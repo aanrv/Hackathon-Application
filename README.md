@@ -2,6 +2,12 @@
 
 An unnamed application written at the Lehman College NSBE Fall 2015 Hackathon.
 
+# Screenshots
+
+![Feed](img/mainscreen.png)
+![Article](img/article.png)
+![Comments](img/comment.png)
+
 Hackathon Themes Followed:
 
 1. A social media convenience tool.
